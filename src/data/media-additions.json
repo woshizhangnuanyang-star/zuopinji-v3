@@ -1,0 +1,152 @@
+{
+  "tdPosters": {
+    "id": "motion-td-posters",
+    "title": "TD 动态海报设计",
+    "software": "TouchDesigner",
+    "clips": [
+      {
+        "id": "xing-landscape",
+        "label": "行之所至 · 横版",
+        "src": "/media/td-posters/xing-landscape-hd-a62c4efb.mp4",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 21285554,
+        "small": {
+          "src": "/media/td-posters/xing-landscape-stream-a62c4efb.mp4",
+          "width": 1280,
+          "height": 720,
+          "bytes": 12863099
+        },
+        "poster": "/media/td-posters/xing-landscape-a62c4efb-large.webp",
+        "thumbnail": "/media/td-posters/xing-landscape-a62c4efb-thumb.webp",
+        "duration": 152.51
+      },
+      {
+        "id": "xing-portrait",
+        "label": "行之所至 · 竖版",
+        "src": "/media/td-posters/xing-portrait-hd-7278a65b.mp4",
+        "width": 772,
+        "height": 1080,
+        "bytes": 21276857,
+        "small": {
+          "src": "/media/td-posters/xing-portrait-stream-7278a65b.mp4",
+          "width": 514,
+          "height": 720,
+          "bytes": 12858658
+        },
+        "poster": "/media/td-posters/xing-portrait-7278a65b-large.webp",
+        "thumbnail": "/media/td-posters/xing-portrait-7278a65b-thumb.webp",
+        "duration": 152.51
+      },
+      {
+        "id": "chariot-landscape",
+        "label": "器构舆轮 · 横版",
+        "src": "/media/td-posters/chariot-landscape-hd-415c979c.mp4",
+        "width": 1916,
+        "height": 1080,
+        "bytes": 21845631,
+        "small": {
+          "src": "/media/td-posters/chariot-landscape-stream-415c979c.mp4",
+          "width": 1276,
+          "height": 720,
+          "bytes": 13041238
+        },
+        "poster": "/media/td-posters/chariot-landscape-415c979c-large.webp",
+        "thumbnail": "/media/td-posters/chariot-landscape-415c979c-thumb.webp",
+        "duration": 61.28
+      },
+      {
+        "id": "chariot-portrait",
+        "label": "器构舆轮 · 竖版",
+        "src": "/media/td-posters/chariot-portrait-hd-b2799135.mp4",
+        "width": 822,
+        "height": 1080,
+        "bytes": 20607290,
+        "small": {
+          "src": "/media/td-posters/chariot-portrait-stream-b2799135.mp4",
+          "width": 548,
+          "height": 720,
+          "bytes": 11680897
+        },
+        "poster": "/media/td-posters/chariot-portrait-b2799135-large.webp",
+        "thumbnail": "/media/td-posters/chariot-portrait-b2799135-thumb.webp",
+        "duration": 62.51
+      }
+    ],
+    "posters": [
+      {
+        "id": "poster-1",
+        "label": "行之所至 / 01",
+        "src": "/media/td-posters/poster-1-large.webp",
+        "thumbnail": "/media/td-posters/poster-1-thumb.webp",
+        "width": 5906,
+        "height": 8268
+      },
+      {
+        "id": "poster-2",
+        "label": "行之所至 / 02",
+        "src": "/media/td-posters/poster-2-large.webp",
+        "thumbnail": "/media/td-posters/poster-2-thumb.webp",
+        "width": 5906,
+        "height": 8268
+      },
+      {
+        "id": "poster-3",
+        "label": "器构舆轮 / 01",
+        "src": "/media/td-posters/poster-3-large.webp",
+        "thumbnail": "/media/td-posters/poster-3-thumb.webp",
+        "width": 5906,
+        "height": 8268
+      },
+      {
+        "id": "poster-4",
+        "label": "器构舆轮 / 02",
+        "src": "/media/td-posters/poster-4-large.webp",
+        "thumbnail": "/media/td-posters/poster-4-thumb.webp",
+        "width": 5906,
+        "height": 8268
+      }
+    ]
+  },
+  "silentArchive": {
+    "id": "other-silent-archive",
+    "title": "缄默的存档",
+    "software": "智能光影设计",
+    "clips": [
+      {
+        "id": "installation",
+        "label": "装置片段",
+        "src": "/media/silent-archive/installation-hd-24eb90bf.mp4",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1569155,
+        "small": {
+          "src": "/media/silent-archive/installation-stream-24eb90bf.mp4",
+          "width": 1280,
+          "height": 720,
+          "bytes": 631002
+        },
+        "poster": "/media/silent-archive/installation-24eb90bf-large.webp",
+        "thumbnail": "/media/silent-archive/installation-24eb90bf-thumb.webp",
+        "duration": 4.0
+      },
+      {
+        "id": "full-film",
+        "label": "完整作品",
+        "src": "/media/silent-archive/full-film-hd-a85df79c.mp4",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 20094597,
+        "small": {
+          "src": "/media/silent-archive/full-film-stream-a85df79c.mp4",
+          "width": 1280,
+          "height": 720,
+          "bytes": 12024939
+        },
+        "poster": "/media/silent-archive/full-film-a85df79c-large.webp",
+        "thumbnail": "/media/silent-archive/full-film-a85df79c-thumb.webp",
+        "duration": 194.72
+      }
+    ]
+  }
+}

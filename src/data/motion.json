@@ -1,0 +1,133 @@
+[
+  {
+    "id": "motion-opening",
+    "title": "开合动画",
+    "software": "Blender",
+    "clips": [
+      {
+        "id": "happy",
+        "label": "开心",
+        "src": "/motion/opening/happy.mp4",
+        "poster": "/motion/opening/happy.webp",
+        "width": 1080,
+        "height": 1080,
+        "duration": 3.04
+      },
+      {
+        "id": "comfort",
+        "label": "安慰",
+        "src": "/motion/opening/comfort.mp4",
+        "poster": "/motion/opening/comfort.webp",
+        "width": 1080,
+        "height": 1080,
+        "duration": 2.88
+      },
+      {
+        "id": "release",
+        "label": "解压",
+        "src": "/motion/opening/release.mp4",
+        "poster": "/motion/opening/release.webp",
+        "width": 1080,
+        "height": 1080,
+        "duration": 2.33
+      },
+      {
+        "id": "calm",
+        "label": "平静",
+        "src": "/motion/opening/calm.mp4",
+        "poster": "/motion/opening/calm.webp",
+        "width": 1080,
+        "height": 1080,
+        "duration": 2.97
+      }
+    ]
+  },
+  {
+    "id": "motion-astronaut",
+    "title": "宇航员小场景",
+    "software": "Blender",
+    "clips": [
+      {
+        "id": "astronaut",
+        "label": "宇航员小场景",
+        "src": "/motion/astronaut/astronaut.mp4",
+        "poster": "/motion/astronaut/astronaut.webp",
+        "width": 1920,
+        "height": 1080,
+        "duration": 8.55
+      }
+    ]
+  },
+  {
+    "id": "motion-beach",
+    "title": "沙滩",
+    "software": "Blender",
+    "clips": [
+      {
+        "id": "beach",
+        "label": "沙滩",
+        "src": "/motion/beach/beach.mp4",
+        "poster": "/motion/beach/beach.webp",
+        "width": 1440,
+        "height": 1080,
+        "duration": 7.01
+      }
+    ]
+  },
+  {
+    "id": "motion-art-school",
+    "title": "ART SCHOOL",
+    "software": "C4D",
+    "clips": [
+      {
+        "id": "art-school",
+        "label": "ART SCHOOL",
+        "src": "/motion/art-school/art-school.mp4",
+        "poster": "/motion/art-school/art-school.webp",
+        "width": 1080,
+        "height": 1080,
+        "duration": 3.09
+      }
+    ]
+  },
+  {
+    "id": "motion-visualization",
+    "title": "可视化",
+    "software": "Spline",
+    "clips": [
+      {
+        "id": "visualization",
+        "label": "可视化",
+        "src": "/motion/visualization/visualization.mp4",
+        "poster": "/motion/visualization/visualization.webp",
+        "width": 1638,
+        "height": 1080,
+        "duration": 17.92
+      }
+    ]
+  },
+  {
+    "id": "motion-audio-poster",
+    "title": "音画海报",
+    "software": "TouchDesigner",
+    "clips": [
+      {
+        "id": "audio-poster",
+        "label": "音画海报",
+        "src": "/media/audio-poster/audio-poster-hd-6cce3629.mp4",
+        "width": 718,
+        "height": 1080,
+        "bytes": 12626851,
+        "small": {
+          "src": "/media/audio-poster/audio-poster-stream-6cce3629.mp4",
+          "width": 478,
+          "height": 720,
+          "bytes": 8805809
+        },
+        "poster": "/media/audio-poster/audio-poster-6cce3629-large.webp",
+        "thumbnail": "/media/audio-poster/audio-poster-6cce3629-thumb.webp",
+        "duration": 23.71
+      }
+    ]
+  }
+]

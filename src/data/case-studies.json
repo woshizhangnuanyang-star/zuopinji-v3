@@ -1,0 +1,1800 @@
+{
+  "gugu-island": {
+    "cover": "/projects/gugu-island/cover.webp",
+    "coverWidth": 1200,
+    "coverHeight": 675,
+    "sourceCount": 24,
+    "sourceHeight": 27344,
+    "pages": [
+      {
+        "src": "/projects/gugu-island/01-01.webp",
+        "small": "/projects/gugu-island/01-01-960.webp",
+        "width": 1920,
+        "height": 1080,
+        "sourcePage": 1,
+        "part": 1,
+        "label": "项目概览",
+        "chapter": "项目概览"
+      },
+      {
+        "src": "/projects/gugu-island/02-01.webp",
+        "small": "/projects/gugu-island/02-01-960.webp",
+        "width": 1920,
+        "height": 1190,
+        "sourcePage": 2,
+        "part": 1,
+        "label": "设计背景",
+        "chapter": "设计背景"
+      },
+      {
+        "src": "/projects/gugu-island/03-01.webp",
+        "small": "/projects/gugu-island/03-01-960.webp",
+        "width": 1920,
+        "height": 1831,
+        "sourcePage": 3,
+        "part": 1,
+        "label": "设计背景",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/04-01.webp",
+        "small": "/projects/gugu-island/04-01-960.webp",
+        "width": 1920,
+        "height": 1149,
+        "sourcePage": 4,
+        "part": 1,
+        "label": "设计背景",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/05-01.webp",
+        "small": "/projects/gugu-island/05-01-960.webp",
+        "width": 1920,
+        "height": 1047,
+        "sourcePage": 5,
+        "part": 1,
+        "label": "设计背景",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/06-01.webp",
+        "small": "/projects/gugu-island/06-01-960.webp",
+        "width": 1920,
+        "height": 1180,
+        "sourcePage": 6,
+        "part": 1,
+        "label": "设计背景",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/07-01.webp",
+        "small": "/projects/gugu-island/07-01-960.webp",
+        "width": 1920,
+        "height": 1133,
+        "sourcePage": 7,
+        "part": 1,
+        "label": "设计背景",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/08-01.webp",
+        "small": "/projects/gugu-island/08-01-960.webp",
+        "width": 1920,
+        "height": 1085,
+        "sourcePage": 8,
+        "part": 1,
+        "label": "用户研究",
+        "chapter": "用户研究"
+      },
+      {
+        "src": "/projects/gugu-island/09-01.webp",
+        "small": "/projects/gugu-island/09-01-960.webp",
+        "width": 1920,
+        "height": 1124,
+        "sourcePage": 9,
+        "part": 1,
+        "label": "用户研究",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/10-01.webp",
+        "small": "/projects/gugu-island/10-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 10,
+        "part": 1,
+        "label": "用户研究",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/10-02.webp",
+        "small": "/projects/gugu-island/10-02-960.webp",
+        "width": 1920,
+        "height": 293,
+        "sourcePage": 10,
+        "part": 2,
+        "label": "用户研究",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/11-01.webp",
+        "small": "/projects/gugu-island/11-01-960.webp",
+        "width": 1920,
+        "height": 839,
+        "sourcePage": 11,
+        "part": 1,
+        "label": "设计规范",
+        "chapter": "设计规范"
+      },
+      {
+        "src": "/projects/gugu-island/12-01.webp",
+        "small": "/projects/gugu-island/12-01-960.webp",
+        "width": 1920,
+        "height": 783,
+        "sourcePage": 12,
+        "part": 1,
+        "label": "设计规范",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/13-01.webp",
+        "small": "/projects/gugu-island/13-01-960.webp",
+        "width": 1920,
+        "height": 691,
+        "sourcePage": 13,
+        "part": 1,
+        "label": "设计规范",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/14-01.webp",
+        "small": "/projects/gugu-island/14-01-960.webp",
+        "width": 1920,
+        "height": 902,
+        "sourcePage": 14,
+        "part": 1,
+        "label": "产品与架构",
+        "chapter": "产品与架构"
+      },
+      {
+        "src": "/projects/gugu-island/15-01.webp",
+        "small": "/projects/gugu-island/15-01-960.webp",
+        "width": 1920,
+        "height": 659,
+        "sourcePage": 15,
+        "part": 1,
+        "label": "产品与架构",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/16-01.webp",
+        "small": "/projects/gugu-island/16-01-960.webp",
+        "width": 1920,
+        "height": 609,
+        "sourcePage": 16,
+        "part": 1,
+        "label": "产品与架构",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/17-01.webp",
+        "small": "/projects/gugu-island/17-01-960.webp",
+        "width": 1920,
+        "height": 1153,
+        "sourcePage": 17,
+        "part": 1,
+        "label": "产品与架构",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/18-01.webp",
+        "small": "/projects/gugu-island/18-01-960.webp",
+        "width": 1920,
+        "height": 994,
+        "sourcePage": 18,
+        "part": 1,
+        "label": "产品与架构",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/19-01.webp",
+        "small": "/projects/gugu-island/19-01-960.webp",
+        "width": 1920,
+        "height": 1852,
+        "sourcePage": 19,
+        "part": 1,
+        "label": "产品与架构",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/20-01.webp",
+        "small": "/projects/gugu-island/20-01-960.webp",
+        "width": 1920,
+        "height": 1280,
+        "sourcePage": 20,
+        "part": 1,
+        "label": "界面与体验",
+        "chapter": "界面与体验"
+      },
+      {
+        "src": "/projects/gugu-island/21-01.webp",
+        "small": "/projects/gugu-island/21-01-960.webp",
+        "width": 1920,
+        "height": 964,
+        "sourcePage": 21,
+        "part": 1,
+        "label": "界面与体验",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/22-01.webp",
+        "small": "/projects/gugu-island/22-01-960.webp",
+        "width": 1920,
+        "height": 1060,
+        "sourcePage": 22,
+        "part": 1,
+        "label": "界面与体验",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/23-01.webp",
+        "small": "/projects/gugu-island/23-01-960.webp",
+        "width": 1920,
+        "height": 1119,
+        "sourcePage": 23,
+        "part": 1,
+        "label": "界面与体验",
+        "chapter": null
+      },
+      {
+        "src": "/projects/gugu-island/24-01.webp",
+        "small": "/projects/gugu-island/24-01-960.webp",
+        "width": 1920,
+        "height": 1407,
+        "sourcePage": 24,
+        "part": 1,
+        "label": "界面与体验",
+        "chapter": null
+      }
+    ]
+  },
+  "goodboy": {
+    "cover": "/projects/goodboy/cover-f39d071d7a.webp",
+    "coverWidth": 1200,
+    "coverHeight": 675,
+    "sourceCount": 14,
+    "sourceHeight": 40116,
+    "pages": [
+      {
+        "src": "/projects/goodboy/01-01-f39d071d7a.webp",
+        "small": "/projects/goodboy/01-01-f39d071d7a-960.webp",
+        "width": 1920,
+        "height": 1080,
+        "sourcePage": 1,
+        "part": 1,
+        "label": "项目概览",
+        "chapter": "项目概览"
+      },
+      {
+        "src": "/projects/goodboy/02-01.webp",
+        "small": "/projects/goodboy/02-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 2,
+        "part": 1,
+        "label": "问题与用户",
+        "chapter": "问题与用户"
+      },
+      {
+        "src": "/projects/goodboy/02-02.webp",
+        "small": "/projects/goodboy/02-02-960.webp",
+        "width": 1920,
+        "height": 648,
+        "sourcePage": 2,
+        "part": 2,
+        "label": "问题与用户",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/03-01.webp",
+        "small": "/projects/goodboy/03-01-960.webp",
+        "width": 1920,
+        "height": 1854,
+        "sourcePage": 3,
+        "part": 1,
+        "label": "问题与用户",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/04-01.webp",
+        "small": "/projects/goodboy/04-01-960.webp",
+        "width": 1920,
+        "height": 946,
+        "sourcePage": 4,
+        "part": 1,
+        "label": "问题与用户",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/05-01.webp",
+        "small": "/projects/goodboy/05-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 5,
+        "part": 1,
+        "label": "竞品分析",
+        "chapter": "竞品分析"
+      },
+      {
+        "src": "/projects/goodboy/05-02.webp",
+        "small": "/projects/goodboy/05-02-960.webp",
+        "width": 1920,
+        "height": 595,
+        "sourcePage": 5,
+        "part": 2,
+        "label": "竞品分析",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/06-01.webp",
+        "small": "/projects/goodboy/06-01-960.webp",
+        "width": 1920,
+        "height": 1029,
+        "sourcePage": 6,
+        "part": 1,
+        "label": "方案设计",
+        "chapter": "方案设计"
+      },
+      {
+        "src": "/projects/goodboy/07-01.webp",
+        "small": "/projects/goodboy/07-01-960.webp",
+        "width": 1920,
+        "height": 1816,
+        "sourcePage": 7,
+        "part": 1,
+        "label": "方案设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/08-01.webp",
+        "small": "/projects/goodboy/08-01-960.webp",
+        "width": 1920,
+        "height": 1324,
+        "sourcePage": 8,
+        "part": 1,
+        "label": "方案设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/09-01.webp",
+        "small": "/projects/goodboy/09-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 9,
+        "part": 1,
+        "label": "方案设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/09-02.webp",
+        "small": "/projects/goodboy/09-02-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 9,
+        "part": 2,
+        "label": "方案设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/09-03.webp",
+        "small": "/projects/goodboy/09-03-960.webp",
+        "width": 1920,
+        "height": 31,
+        "sourcePage": 9,
+        "part": 3,
+        "label": "方案设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/10-01.webp",
+        "small": "/projects/goodboy/10-01-960.webp",
+        "width": 1920,
+        "height": 876,
+        "sourcePage": 10,
+        "part": 1,
+        "label": "方案设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/11-01.webp",
+        "small": "/projects/goodboy/11-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 11,
+        "part": 1,
+        "label": "应用与界面",
+        "chapter": "应用与界面"
+      },
+      {
+        "src": "/projects/goodboy/11-02.webp",
+        "small": "/projects/goodboy/11-02-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 11,
+        "part": 2,
+        "label": "应用与界面",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/11-03.webp",
+        "small": "/projects/goodboy/11-03-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 11,
+        "part": 3,
+        "label": "应用与界面",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/11-04.webp",
+        "small": "/projects/goodboy/11-04-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 11,
+        "part": 4,
+        "label": "应用与界面",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/11-05.webp",
+        "small": "/projects/goodboy/11-05-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 11,
+        "part": 5,
+        "label": "应用与界面",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/11-06.webp",
+        "small": "/projects/goodboy/11-06-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 11,
+        "part": 6,
+        "label": "应用与界面",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/11-07.webp",
+        "small": "/projects/goodboy/11-07-960.webp",
+        "width": 1920,
+        "height": 461,
+        "sourcePage": 11,
+        "part": 7,
+        "label": "应用与界面",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/12-01.webp",
+        "small": "/projects/goodboy/12-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 12,
+        "part": 1,
+        "label": "开发与实现",
+        "chapter": "开发与实现"
+      },
+      {
+        "src": "/projects/goodboy/12-02.webp",
+        "small": "/projects/goodboy/12-02-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 12,
+        "part": 2,
+        "label": "开发与实现",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/12-03.webp",
+        "small": "/projects/goodboy/12-03-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 12,
+        "part": 3,
+        "label": "开发与实现",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/12-04.webp",
+        "small": "/projects/goodboy/12-04-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 12,
+        "part": 4,
+        "label": "开发与实现",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/12-05.webp",
+        "small": "/projects/goodboy/12-05-960.webp",
+        "width": 1920,
+        "height": 443,
+        "sourcePage": 12,
+        "part": 5,
+        "label": "开发与实现",
+        "chapter": null
+      },
+      {
+        "src": "/projects/goodboy/13-01.webp",
+        "small": "/projects/goodboy/13-01-960.webp",
+        "width": 1920,
+        "height": 1273,
+        "sourcePage": 13,
+        "part": 1,
+        "label": "应用前景",
+        "chapter": "应用前景"
+      },
+      {
+        "src": "/projects/goodboy/14-01.webp",
+        "small": "/projects/goodboy/14-01-960.webp",
+        "width": 1920,
+        "height": 860,
+        "sourcePage": 14,
+        "part": 1,
+        "label": "应用前景",
+        "chapter": null
+      }
+    ]
+  },
+  "lingfu": {
+    "cover": "/projects/lingfu/cover.webp",
+    "coverWidth": 1200,
+    "coverHeight": 671,
+    "sourceCount": 24,
+    "sourceHeight": 39018,
+    "pages": [
+      {
+        "src": "/projects/lingfu/01-01.webp",
+        "small": "/projects/lingfu/01-01-960.webp",
+        "width": 1920,
+        "height": 1074,
+        "sourcePage": 1,
+        "part": 1,
+        "label": "项目概览",
+        "chapter": "项目概览"
+      },
+      {
+        "src": "/projects/lingfu/02-01.webp",
+        "small": "/projects/lingfu/02-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 2,
+        "part": 1,
+        "label": "调研与洞察",
+        "chapter": "调研与洞察"
+      },
+      {
+        "src": "/projects/lingfu/02-02.webp",
+        "small": "/projects/lingfu/02-02-960.webp",
+        "width": 1920,
+        "height": 1399,
+        "sourcePage": 2,
+        "part": 2,
+        "label": "调研与洞察",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/03-01.webp",
+        "small": "/projects/lingfu/03-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 3,
+        "part": 1,
+        "label": "调研与洞察",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/03-02.webp",
+        "small": "/projects/lingfu/03-02-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 3,
+        "part": 2,
+        "label": "调研与洞察",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/03-03.webp",
+        "small": "/projects/lingfu/03-03-960.webp",
+        "width": 1920,
+        "height": 597,
+        "sourcePage": 3,
+        "part": 3,
+        "label": "调研与洞察",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/04-01.webp",
+        "small": "/projects/lingfu/04-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 4,
+        "part": 1,
+        "label": "调研与洞察",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/04-02.webp",
+        "small": "/projects/lingfu/04-02-960.webp",
+        "width": 1920,
+        "height": 1694,
+        "sourcePage": 4,
+        "part": 2,
+        "label": "调研与洞察",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/05-01.webp",
+        "small": "/projects/lingfu/05-01-960.webp",
+        "width": 1920,
+        "height": 1197,
+        "sourcePage": 5,
+        "part": 1,
+        "label": "调研与洞察",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/06-01.webp",
+        "small": "/projects/lingfu/06-01-960.webp",
+        "width": 1920,
+        "height": 1051,
+        "sourcePage": 6,
+        "part": 1,
+        "label": "调研与洞察",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/07-01.webp",
+        "small": "/projects/lingfu/07-01-960.webp",
+        "width": 1920,
+        "height": 1120,
+        "sourcePage": 7,
+        "part": 1,
+        "label": "品牌与 IP",
+        "chapter": "品牌与 IP"
+      },
+      {
+        "src": "/projects/lingfu/08-01.webp",
+        "small": "/projects/lingfu/08-01-960.webp",
+        "width": 1920,
+        "height": 978,
+        "sourcePage": 8,
+        "part": 1,
+        "label": "品牌与 IP",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/09-01.webp",
+        "small": "/projects/lingfu/09-01-960.webp",
+        "width": 1920,
+        "height": 1788,
+        "sourcePage": 9,
+        "part": 1,
+        "label": "品牌与 IP",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/10-01.webp",
+        "small": "/projects/lingfu/10-01-960.webp",
+        "width": 1920,
+        "height": 1069,
+        "sourcePage": 10,
+        "part": 1,
+        "label": "品牌与 IP",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/11-01.webp",
+        "small": "/projects/lingfu/11-01-960.webp",
+        "width": 1920,
+        "height": 1012,
+        "sourcePage": 11,
+        "part": 1,
+        "label": "体验与架构",
+        "chapter": "体验与架构"
+      },
+      {
+        "src": "/projects/lingfu/12-01.webp",
+        "small": "/projects/lingfu/12-01-960.webp",
+        "width": 1920,
+        "height": 1271,
+        "sourcePage": 12,
+        "part": 1,
+        "label": "体验与架构",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/13-01.webp",
+        "small": "/projects/lingfu/13-01-960.webp",
+        "width": 1920,
+        "height": 1158,
+        "sourcePage": 13,
+        "part": 1,
+        "label": "体验与架构",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/14-01.webp",
+        "small": "/projects/lingfu/14-01-960.webp",
+        "width": 1920,
+        "height": 1027,
+        "sourcePage": 14,
+        "part": 1,
+        "label": "体验与架构",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/15-01.webp",
+        "small": "/projects/lingfu/15-01-960.webp",
+        "width": 1920,
+        "height": 1190,
+        "sourcePage": 15,
+        "part": 1,
+        "label": "界面设计",
+        "chapter": "界面设计"
+      },
+      {
+        "src": "/projects/lingfu/16-01.webp",
+        "small": "/projects/lingfu/16-01-960.webp",
+        "width": 1920,
+        "height": 1298,
+        "sourcePage": 16,
+        "part": 1,
+        "label": "界面设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/17-01.webp",
+        "small": "/projects/lingfu/17-01-960.webp",
+        "width": 1920,
+        "height": 1494,
+        "sourcePage": 17,
+        "part": 1,
+        "label": "界面设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/18-01.webp",
+        "small": "/projects/lingfu/18-01-960.webp",
+        "width": 1920,
+        "height": 1600,
+        "sourcePage": 18,
+        "part": 1,
+        "label": "界面设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/19-01.webp",
+        "small": "/projects/lingfu/19-01-960.webp",
+        "width": 1920,
+        "height": 1255,
+        "sourcePage": 19,
+        "part": 1,
+        "label": "界面设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/20-01.webp",
+        "small": "/projects/lingfu/20-01-960.webp",
+        "width": 1920,
+        "height": 1295,
+        "sourcePage": 20,
+        "part": 1,
+        "label": "界面设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/21-01.webp",
+        "small": "/projects/lingfu/21-01-960.webp",
+        "width": 1920,
+        "height": 1265,
+        "sourcePage": 21,
+        "part": 1,
+        "label": "界面设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/22-01.webp",
+        "small": "/projects/lingfu/22-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 22,
+        "part": 1,
+        "label": "硬件与 VR",
+        "chapter": "硬件与 VR"
+      },
+      {
+        "src": "/projects/lingfu/22-02.webp",
+        "small": "/projects/lingfu/22-02-960.webp",
+        "width": 1920,
+        "height": 727,
+        "sourcePage": 22,
+        "part": 2,
+        "label": "硬件与 VR",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/23-01.webp",
+        "small": "/projects/lingfu/23-01-960.webp",
+        "width": 1920,
+        "height": 1467,
+        "sourcePage": 23,
+        "part": 1,
+        "label": "硬件与 VR",
+        "chapter": null
+      },
+      {
+        "src": "/projects/lingfu/24-01.webp",
+        "small": "/projects/lingfu/24-01-960.webp",
+        "width": 1920,
+        "height": 1392,
+        "sourcePage": 24,
+        "part": 1,
+        "label": "硬件与 VR",
+        "chapter": null
+      }
+    ]
+  },
+  "yaya-rangers": {
+    "cover": "/projects/yaya-rangers/cover.webp",
+    "coverWidth": 1200,
+    "coverHeight": 675,
+    "sourceCount": 31,
+    "sourceHeight": 43273,
+    "pages": [
+      {
+        "src": "/projects/yaya-rangers/01-01.webp",
+        "small": "/projects/yaya-rangers/01-01-960.webp",
+        "width": 1920,
+        "height": 1080,
+        "sourcePage": 1,
+        "part": 1,
+        "label": "项目概览",
+        "chapter": "项目概览"
+      },
+      {
+        "src": "/projects/yaya-rangers/02-01.webp",
+        "small": "/projects/yaya-rangers/02-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 2,
+        "part": 1,
+        "label": "调研与用户",
+        "chapter": "调研与用户"
+      },
+      {
+        "src": "/projects/yaya-rangers/02-02.webp",
+        "small": "/projects/yaya-rangers/02-02-960.webp",
+        "width": 1920,
+        "height": 141,
+        "sourcePage": 2,
+        "part": 2,
+        "label": "调研与用户",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/03-01.webp",
+        "small": "/projects/yaya-rangers/03-01-960.webp",
+        "width": 1920,
+        "height": 1739,
+        "sourcePage": 3,
+        "part": 1,
+        "label": "调研与用户",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/04-01.webp",
+        "small": "/projects/yaya-rangers/04-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 4,
+        "part": 1,
+        "label": "调研与用户",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/04-02.webp",
+        "small": "/projects/yaya-rangers/04-02-960.webp",
+        "width": 1920,
+        "height": 1050,
+        "sourcePage": 4,
+        "part": 2,
+        "label": "调研与用户",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/05-01.webp",
+        "small": "/projects/yaya-rangers/05-01-960.webp",
+        "width": 1920,
+        "height": 1092,
+        "sourcePage": 5,
+        "part": 1,
+        "label": "调研与用户",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/06-01.webp",
+        "small": "/projects/yaya-rangers/06-01-960.webp",
+        "width": 1920,
+        "height": 1057,
+        "sourcePage": 6,
+        "part": 1,
+        "label": "调研与用户",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/07-01.webp",
+        "small": "/projects/yaya-rangers/07-01-960.webp",
+        "width": 1920,
+        "height": 1066,
+        "sourcePage": 7,
+        "part": 1,
+        "label": "调研与用户",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/08-01.webp",
+        "small": "/projects/yaya-rangers/08-01-960.webp",
+        "width": 1920,
+        "height": 1125,
+        "sourcePage": 8,
+        "part": 1,
+        "label": "调研与用户",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/09-01.webp",
+        "small": "/projects/yaya-rangers/09-01-960.webp",
+        "width": 1920,
+        "height": 1199,
+        "sourcePage": 9,
+        "part": 1,
+        "label": "需求与策略",
+        "chapter": "需求与策略"
+      },
+      {
+        "src": "/projects/yaya-rangers/10-01.webp",
+        "small": "/projects/yaya-rangers/10-01-960.webp",
+        "width": 1920,
+        "height": 1088,
+        "sourcePage": 10,
+        "part": 1,
+        "label": "需求与策略",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/11-01.webp",
+        "small": "/projects/yaya-rangers/11-01-960.webp",
+        "width": 1920,
+        "height": 1175,
+        "sourcePage": 11,
+        "part": 1,
+        "label": "需求与策略",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/12-01.webp",
+        "small": "/projects/yaya-rangers/12-01-960.webp",
+        "width": 1920,
+        "height": 1053,
+        "sourcePage": 12,
+        "part": 1,
+        "label": "需求与策略",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/13-01.webp",
+        "small": "/projects/yaya-rangers/13-01-960.webp",
+        "width": 1920,
+        "height": 1009,
+        "sourcePage": 13,
+        "part": 1,
+        "label": "需求与策略",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/14-01.webp",
+        "small": "/projects/yaya-rangers/14-01-960.webp",
+        "width": 1920,
+        "height": 1167,
+        "sourcePage": 14,
+        "part": 1,
+        "label": "需求与策略",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/15-01.webp",
+        "small": "/projects/yaya-rangers/15-01-960.webp",
+        "width": 1920,
+        "height": 1179,
+        "sourcePage": 15,
+        "part": 1,
+        "label": "需求与策略",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/16-01.webp",
+        "small": "/projects/yaya-rangers/16-01-960.webp",
+        "width": 1920,
+        "height": 1053,
+        "sourcePage": 16,
+        "part": 1,
+        "label": "需求与策略",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/17-01.webp",
+        "small": "/projects/yaya-rangers/17-01-960.webp",
+        "width": 1920,
+        "height": 992,
+        "sourcePage": 17,
+        "part": 1,
+        "label": "需求与策略",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/18-01.webp",
+        "small": "/projects/yaya-rangers/18-01-960.webp",
+        "width": 1920,
+        "height": 1354,
+        "sourcePage": 18,
+        "part": 1,
+        "label": "方案定位",
+        "chapter": "方案定位"
+      },
+      {
+        "src": "/projects/yaya-rangers/19-01.webp",
+        "small": "/projects/yaya-rangers/19-01-960.webp",
+        "width": 1920,
+        "height": 1044,
+        "sourcePage": 19,
+        "part": 1,
+        "label": "方案定位",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/20-01.webp",
+        "small": "/projects/yaya-rangers/20-01-960.webp",
+        "width": 1920,
+        "height": 1103,
+        "sourcePage": 20,
+        "part": 1,
+        "label": "方案定位",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/21-01.webp",
+        "small": "/projects/yaya-rangers/21-01-960.webp",
+        "width": 1920,
+        "height": 975,
+        "sourcePage": 21,
+        "part": 1,
+        "label": "方案定位",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/22-01.webp",
+        "small": "/projects/yaya-rangers/22-01-960.webp",
+        "width": 1920,
+        "height": 1186,
+        "sourcePage": 22,
+        "part": 1,
+        "label": "硬件与交互",
+        "chapter": "硬件与交互"
+      },
+      {
+        "src": "/projects/yaya-rangers/23-01.webp",
+        "small": "/projects/yaya-rangers/23-01-960.webp",
+        "width": 1920,
+        "height": 1137,
+        "sourcePage": 23,
+        "part": 1,
+        "label": "硬件与交互",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/24-01.webp",
+        "small": "/projects/yaya-rangers/24-01-960.webp",
+        "width": 1920,
+        "height": 1108,
+        "sourcePage": 24,
+        "part": 1,
+        "label": "硬件与交互",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/25-01.webp",
+        "small": "/projects/yaya-rangers/25-01-960.webp",
+        "width": 1920,
+        "height": 1012,
+        "sourcePage": 25,
+        "part": 1,
+        "label": "硬件与交互",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/26-01.webp",
+        "small": "/projects/yaya-rangers/26-01-960.webp",
+        "width": 1920,
+        "height": 1175,
+        "sourcePage": 26,
+        "part": 1,
+        "label": "硬件与交互",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/27-01.webp",
+        "small": "/projects/yaya-rangers/27-01-960.webp",
+        "width": 1920,
+        "height": 1127,
+        "sourcePage": 27,
+        "part": 1,
+        "label": "硬件与交互",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/28-01.webp",
+        "small": "/projects/yaya-rangers/28-01-960.webp",
+        "width": 1920,
+        "height": 1162,
+        "sourcePage": 28,
+        "part": 1,
+        "label": "硬件与交互",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/29-01.webp",
+        "small": "/projects/yaya-rangers/29-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 29,
+        "part": 1,
+        "label": "界面与智能体",
+        "chapter": "界面与智能体"
+      },
+      {
+        "src": "/projects/yaya-rangers/29-02.webp",
+        "small": "/projects/yaya-rangers/29-02-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 29,
+        "part": 2,
+        "label": "界面与智能体",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/29-03.webp",
+        "small": "/projects/yaya-rangers/29-03-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 29,
+        "part": 3,
+        "label": "界面与智能体",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/29-04.webp",
+        "small": "/projects/yaya-rangers/29-04-960.webp",
+        "width": 1920,
+        "height": 848,
+        "sourcePage": 29,
+        "part": 4,
+        "label": "界面与智能体",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/30-01.webp",
+        "small": "/projects/yaya-rangers/30-01-960.webp",
+        "width": 1920,
+        "height": 914,
+        "sourcePage": 30,
+        "part": 1,
+        "label": "界面与智能体",
+        "chapter": null
+      },
+      {
+        "src": "/projects/yaya-rangers/31-01.webp",
+        "small": "/projects/yaya-rangers/31-01-960.webp",
+        "width": 1920,
+        "height": 1263,
+        "sourcePage": 31,
+        "part": 1,
+        "label": "界面与智能体",
+        "chapter": null
+      }
+    ]
+  },
+  "kunqu-rhythm": {
+    "cover": "/projects/kunqu-rhythm/cover.webp",
+    "coverWidth": 1200,
+    "coverHeight": 675,
+    "sourceCount": 15,
+    "sourceHeight": 20005,
+    "pages": [
+      {
+        "src": "/projects/kunqu-rhythm/01-01.webp",
+        "small": "/projects/kunqu-rhythm/01-01-960.webp",
+        "width": 1920,
+        "height": 1080,
+        "sourcePage": 1,
+        "part": 1,
+        "label": "项目概览",
+        "chapter": "项目概览"
+      },
+      {
+        "src": "/projects/kunqu-rhythm/02-01.webp",
+        "small": "/projects/kunqu-rhythm/02-01-960.webp",
+        "width": 1920,
+        "height": 1402,
+        "sourcePage": 2,
+        "part": 1,
+        "label": "背景与洞察",
+        "chapter": "背景与洞察"
+      },
+      {
+        "src": "/projects/kunqu-rhythm/03-01.webp",
+        "small": "/projects/kunqu-rhythm/03-01-960.webp",
+        "width": 1920,
+        "height": 1191,
+        "sourcePage": 3,
+        "part": 1,
+        "label": "背景与洞察",
+        "chapter": null
+      },
+      {
+        "src": "/projects/kunqu-rhythm/04-01.webp",
+        "small": "/projects/kunqu-rhythm/04-01-960.webp",
+        "width": 1920,
+        "height": 1247,
+        "sourcePage": 4,
+        "part": 1,
+        "label": "背景与洞察",
+        "chapter": null
+      },
+      {
+        "src": "/projects/kunqu-rhythm/05-01.webp",
+        "small": "/projects/kunqu-rhythm/05-01-960.webp",
+        "width": 1920,
+        "height": 1289,
+        "sourcePage": 5,
+        "part": 1,
+        "label": "用户研究",
+        "chapter": "用户研究"
+      },
+      {
+        "src": "/projects/kunqu-rhythm/06-01.webp",
+        "small": "/projects/kunqu-rhythm/06-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 6,
+        "part": 1,
+        "label": "用户研究",
+        "chapter": null
+      },
+      {
+        "src": "/projects/kunqu-rhythm/06-02.webp",
+        "small": "/projects/kunqu-rhythm/06-02-960.webp",
+        "width": 1920,
+        "height": 29,
+        "sourcePage": 6,
+        "part": 2,
+        "label": "用户研究",
+        "chapter": null
+      },
+      {
+        "src": "/projects/kunqu-rhythm/07-01.webp",
+        "small": "/projects/kunqu-rhythm/07-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 7,
+        "part": 1,
+        "label": "用户研究",
+        "chapter": null
+      },
+      {
+        "src": "/projects/kunqu-rhythm/07-02.webp",
+        "small": "/projects/kunqu-rhythm/07-02-960.webp",
+        "width": 1920,
+        "height": 176,
+        "sourcePage": 7,
+        "part": 2,
+        "label": "用户研究",
+        "chapter": null
+      },
+      {
+        "src": "/projects/kunqu-rhythm/08-01.webp",
+        "small": "/projects/kunqu-rhythm/08-01-960.webp",
+        "width": 1920,
+        "height": 1375,
+        "sourcePage": 8,
+        "part": 1,
+        "label": "服务设计",
+        "chapter": "服务设计"
+      },
+      {
+        "src": "/projects/kunqu-rhythm/09-01.webp",
+        "small": "/projects/kunqu-rhythm/09-01-960.webp",
+        "width": 1920,
+        "height": 1637,
+        "sourcePage": 9,
+        "part": 1,
+        "label": "服务设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/kunqu-rhythm/10-01.webp",
+        "small": "/projects/kunqu-rhythm/10-01-960.webp",
+        "width": 1920,
+        "height": 1491,
+        "sourcePage": 10,
+        "part": 1,
+        "label": "服务设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/kunqu-rhythm/11-01.webp",
+        "small": "/projects/kunqu-rhythm/11-01-960.webp",
+        "width": 1920,
+        "height": 1356,
+        "sourcePage": 11,
+        "part": 1,
+        "label": "界面设计",
+        "chapter": "界面设计"
+      },
+      {
+        "src": "/projects/kunqu-rhythm/12-01.webp",
+        "small": "/projects/kunqu-rhythm/12-01-960.webp",
+        "width": 1920,
+        "height": 988,
+        "sourcePage": 12,
+        "part": 1,
+        "label": "界面设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/kunqu-rhythm/13-01.webp",
+        "small": "/projects/kunqu-rhythm/13-01-960.webp",
+        "width": 1920,
+        "height": 1032,
+        "sourcePage": 13,
+        "part": 1,
+        "label": "界面设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/kunqu-rhythm/14-01.webp",
+        "small": "/projects/kunqu-rhythm/14-01-960.webp",
+        "width": 1920,
+        "height": 718,
+        "sourcePage": 14,
+        "part": 1,
+        "label": "文创与场景",
+        "chapter": "文创与场景"
+      },
+      {
+        "src": "/projects/kunqu-rhythm/15-01.webp",
+        "small": "/projects/kunqu-rhythm/15-01-960.webp",
+        "width": 1920,
+        "height": 1154,
+        "sourcePage": 15,
+        "part": 1,
+        "label": "文创与场景",
+        "chapter": null
+      }
+    ]
+  },
+  "her-view": {
+    "cover": "/projects/her-view/cover.webp",
+    "coverWidth": 1200,
+    "coverHeight": 744,
+    "sourceCount": 14,
+    "sourceHeight": 21200,
+    "pages": [
+      {
+        "src": "/projects/her-view/01-01.webp",
+        "small": "/projects/her-view/01-01-960.webp",
+        "width": 1920,
+        "height": 1191,
+        "sourcePage": 1,
+        "part": 1,
+        "label": "项目概览",
+        "chapter": "项目概览"
+      },
+      {
+        "src": "/projects/her-view/02-01.webp",
+        "small": "/projects/her-view/02-01-960.webp",
+        "width": 1920,
+        "height": 1175,
+        "sourcePage": 2,
+        "part": 1,
+        "label": "背景与目标",
+        "chapter": "背景与目标"
+      },
+      {
+        "src": "/projects/her-view/03-01.webp",
+        "small": "/projects/her-view/03-01-960.webp",
+        "width": 1920,
+        "height": 1157,
+        "sourcePage": 3,
+        "part": 1,
+        "label": "背景与目标",
+        "chapter": null
+      },
+      {
+        "src": "/projects/her-view/04-01.webp",
+        "small": "/projects/her-view/04-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 4,
+        "part": 1,
+        "label": "用户研究",
+        "chapter": "用户研究"
+      },
+      {
+        "src": "/projects/her-view/04-02.webp",
+        "small": "/projects/her-view/04-02-960.webp",
+        "width": 1920,
+        "height": 502,
+        "sourcePage": 4,
+        "part": 2,
+        "label": "用户研究",
+        "chapter": null
+      },
+      {
+        "src": "/projects/her-view/05-01.webp",
+        "small": "/projects/her-view/05-01-960.webp",
+        "width": 1920,
+        "height": 1075,
+        "sourcePage": 5,
+        "part": 1,
+        "label": "用户研究",
+        "chapter": null
+      },
+      {
+        "src": "/projects/her-view/06-01.webp",
+        "small": "/projects/her-view/06-01-960.webp",
+        "width": 1920,
+        "height": 1045,
+        "sourcePage": 6,
+        "part": 1,
+        "label": "用户研究",
+        "chapter": null
+      },
+      {
+        "src": "/projects/her-view/07-01.webp",
+        "small": "/projects/her-view/07-01-960.webp",
+        "width": 1920,
+        "height": 1378,
+        "sourcePage": 7,
+        "part": 1,
+        "label": "用户研究",
+        "chapter": null
+      },
+      {
+        "src": "/projects/her-view/08-01.webp",
+        "small": "/projects/her-view/08-01-960.webp",
+        "width": 1920,
+        "height": 1181,
+        "sourcePage": 8,
+        "part": 1,
+        "label": "用户研究",
+        "chapter": null
+      },
+      {
+        "src": "/projects/her-view/09-01.webp",
+        "small": "/projects/her-view/09-01-960.webp",
+        "width": 1920,
+        "height": 955,
+        "sourcePage": 9,
+        "part": 1,
+        "label": "品牌与视觉",
+        "chapter": "品牌与视觉"
+      },
+      {
+        "src": "/projects/her-view/10-01.webp",
+        "small": "/projects/her-view/10-01-960.webp",
+        "width": 1920,
+        "height": 891,
+        "sourcePage": 10,
+        "part": 1,
+        "label": "品牌与视觉",
+        "chapter": null
+      },
+      {
+        "src": "/projects/her-view/11-01.webp",
+        "small": "/projects/her-view/11-01-960.webp",
+        "width": 1920,
+        "height": 1069,
+        "sourcePage": 11,
+        "part": 1,
+        "label": "品牌与视觉",
+        "chapter": null
+      },
+      {
+        "src": "/projects/her-view/12-01.webp",
+        "small": "/projects/her-view/12-01-960.webp",
+        "width": 1920,
+        "height": 1174,
+        "sourcePage": 12,
+        "part": 1,
+        "label": "产品与交互",
+        "chapter": "产品与交互"
+      },
+      {
+        "src": "/projects/her-view/13-01.webp",
+        "small": "/projects/her-view/13-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 13,
+        "part": 1,
+        "label": "产品与交互",
+        "chapter": null
+      },
+      {
+        "src": "/projects/her-view/13-02.webp",
+        "small": "/projects/her-view/13-02-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 13,
+        "part": 2,
+        "label": "产品与交互",
+        "chapter": null
+      },
+      {
+        "src": "/projects/her-view/13-03.webp",
+        "small": "/projects/her-view/13-03-960.webp",
+        "width": 1920,
+        "height": 202,
+        "sourcePage": 13,
+        "part": 3,
+        "label": "产品与交互",
+        "chapter": null
+      },
+      {
+        "src": "/projects/her-view/14-01.webp",
+        "small": "/projects/her-view/14-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 14,
+        "part": 1,
+        "label": "最终呈现",
+        "chapter": "最终呈现"
+      },
+      {
+        "src": "/projects/her-view/14-02.webp",
+        "small": "/projects/her-view/14-02-960.webp",
+        "width": 1920,
+        "height": 525,
+        "sourcePage": 14,
+        "part": 2,
+        "label": "最终呈现",
+        "chapter": null
+      }
+    ]
+  },
+  "web-physics": {
+    "cover": "/projects/web-physics/cover.webp",
+    "coverWidth": 1200,
+    "coverHeight": 675,
+    "sourceCount": 1,
+    "sourceHeight": 4723,
+    "pages": [
+      {
+        "src": "/projects/web-physics/01-01.webp",
+        "small": "/projects/web-physics/01-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 1,
+        "part": 1,
+        "label": "完整网页设计",
+        "chapter": "完整网页设计"
+      },
+      {
+        "src": "/projects/web-physics/01-02.webp",
+        "small": "/projects/web-physics/01-02-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 1,
+        "part": 2,
+        "label": "完整网页设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/web-physics/01-03.webp",
+        "small": "/projects/web-physics/01-03-960.webp",
+        "width": 1920,
+        "height": 883,
+        "sourcePage": 1,
+        "part": 3,
+        "label": "完整网页设计",
+        "chapter": null
+      }
+    ]
+  },
+  "web-automation": {
+    "cover": "/projects/web-automation/cover.webp",
+    "coverWidth": 1200,
+    "coverHeight": 675,
+    "sourceCount": 1,
+    "sourceHeight": 3779,
+    "pages": [
+      {
+        "src": "/projects/web-automation/01-01.webp",
+        "small": "/projects/web-automation/01-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 1,
+        "part": 1,
+        "label": "完整网页设计",
+        "chapter": "完整网页设计"
+      },
+      {
+        "src": "/projects/web-automation/01-02.webp",
+        "small": "/projects/web-automation/01-02-960.webp",
+        "width": 1920,
+        "height": 1859,
+        "sourcePage": 1,
+        "part": 2,
+        "label": "完整网页设计",
+        "chapter": null
+      }
+    ]
+  },
+  "web-health-governance": {
+    "cover": "/projects/web-health-governance/cover.webp",
+    "coverWidth": 1200,
+    "coverHeight": 675,
+    "sourceCount": 1,
+    "sourceHeight": 3638,
+    "pages": [
+      {
+        "src": "/projects/web-health-governance/01-01.webp",
+        "small": "/projects/web-health-governance/01-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 1,
+        "part": 1,
+        "label": "完整网页设计",
+        "chapter": "完整网页设计"
+      },
+      {
+        "src": "/projects/web-health-governance/01-02.webp",
+        "small": "/projects/web-health-governance/01-02-960.webp",
+        "width": 1920,
+        "height": 1718,
+        "sourcePage": 1,
+        "part": 2,
+        "label": "完整网页设计",
+        "chapter": null
+      }
+    ]
+  },
+  "web-nanjing-info": {
+    "cover": "/projects/web-nanjing-info/cover.webp",
+    "coverWidth": 1200,
+    "coverHeight": 675,
+    "sourceCount": 1,
+    "sourceHeight": 4353,
+    "pages": [
+      {
+        "src": "/projects/web-nanjing-info/01-01.webp",
+        "small": "/projects/web-nanjing-info/01-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 1,
+        "part": 1,
+        "label": "完整网页设计",
+        "chapter": "完整网页设计"
+      },
+      {
+        "src": "/projects/web-nanjing-info/01-02.webp",
+        "small": "/projects/web-nanjing-info/01-02-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 1,
+        "part": 2,
+        "label": "完整网页设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/web-nanjing-info/01-03.webp",
+        "small": "/projects/web-nanjing-info/01-03-960.webp",
+        "width": 1920,
+        "height": 513,
+        "sourcePage": 1,
+        "part": 3,
+        "label": "完整网页设计",
+        "chapter": null
+      }
+    ]
+  },
+  "web-nanjing-forestry": {
+    "cover": "/projects/web-nanjing-forestry/cover.webp",
+    "coverWidth": 1200,
+    "coverHeight": 675,
+    "sourceCount": 1,
+    "sourceHeight": 3964,
+    "pages": [
+      {
+        "src": "/projects/web-nanjing-forestry/01-01.webp",
+        "small": "/projects/web-nanjing-forestry/01-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 1,
+        "part": 1,
+        "label": "完整网页设计",
+        "chapter": "完整网页设计"
+      },
+      {
+        "src": "/projects/web-nanjing-forestry/01-02.webp",
+        "small": "/projects/web-nanjing-forestry/01-02-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 1,
+        "part": 2,
+        "label": "完整网页设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/web-nanjing-forestry/01-03.webp",
+        "small": "/projects/web-nanjing-forestry/01-03-960.webp",
+        "width": 1920,
+        "height": 124,
+        "sourcePage": 1,
+        "part": 3,
+        "label": "完整网页设计",
+        "chapter": null
+      }
+    ]
+  },
+  "web-heilongjiang": {
+    "cover": "/projects/web-heilongjiang/cover.webp",
+    "coverWidth": 1200,
+    "coverHeight": 675,
+    "sourceCount": 1,
+    "sourceHeight": 5397,
+    "pages": [
+      {
+        "src": "/projects/web-heilongjiang/01-01.webp",
+        "small": "/projects/web-heilongjiang/01-01-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 1,
+        "part": 1,
+        "label": "完整网页设计",
+        "chapter": "完整网页设计"
+      },
+      {
+        "src": "/projects/web-heilongjiang/01-02.webp",
+        "small": "/projects/web-heilongjiang/01-02-960.webp",
+        "width": 1920,
+        "height": 1920,
+        "sourcePage": 1,
+        "part": 2,
+        "label": "完整网页设计",
+        "chapter": null
+      },
+      {
+        "src": "/projects/web-heilongjiang/01-03.webp",
+        "small": "/projects/web-heilongjiang/01-03-960.webp",
+        "width": 1920,
+        "height": 1557,
+        "sourcePage": 1,
+        "part": 3,
+        "label": "完整网页设计",
+        "chapter": null
+      }
+    ]
+  }
+}

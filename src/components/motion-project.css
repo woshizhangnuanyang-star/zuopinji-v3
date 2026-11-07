@@ -1,0 +1,278 @@
+
+.motion-viewer {
+  justify-content: center;
+  padding: clamp(8px, 2vw, 24px);
+}
+.motion-viewer .dialog-panel {
+  width: min(1060px, 100%);
+  padding: 0;
+  overflow-x: hidden;
+  background: #f6f5fa;
+}
+.motion-toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  min-height: 56px;
+  padding: 5px 12px 5px 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: #f6f5fa;
+  border-bottom: 1px solid #49427d23;
+}
+.motion-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  flex: 1;
+  min-width: 0;
+}
+.motion-toolbar .motion-heading h2 {
+  flex-shrink: 0;
+  max-width: 100%;
+  overflow: hidden;
+  margin: 0;
+  font-size: 19px;
+  line-height: 1.3;
+  font-weight: 650;
+  letter-spacing: 0;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.motion-heading p {
+  min-width: 0;
+  overflow: hidden;
+  color: #70647f;
+  font-size: 12px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.motion-close {
+  display: grid;
+  place-items: center;
+  flex: 0 0 44px;
+  height: 44px;
+}
+.motion-close:hover { background: #eae5f2; }
+
+.motion-body {
+  --motion-fit-height: clamp(180px, calc(100dvh - 177px), 690px);
+  padding: 12px 18px 16px;
+}
+.motion-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+.motion-modes {
+  display: flex;
+  gap: 8px;
+}
+.motion-modes button,
+.motion-zoom {
+  min-height: 44px;
+  padding: 0 10px;
+  color: #6f627f;
+  font-size: 12px;
+  white-space: nowrap;
+}
+.motion-modes button[aria-pressed=true] {
+  color: #433770;
+  background: #eae5f2;
+  box-shadow: inset 0 -2px #67558e;
+  font-weight: 650;
+}
+.motion-modes small {
+  margin-left: 3px;
+  color: #746789;
+  font-size: 10px;
+}
+.motion-zoom {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: auto;
+  border: 1px solid #49427d30;
+  color: #49427d;
+}
+.motion-zoom:hover { background: #ece7f3; }
+.motion-quality {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin-left: auto;
+  color: #6f627f;
+  font-size: 12px;
+}
+.motion-quality select {
+  min-height: 44px;
+  padding: 0 7px;
+  border: 1px solid #49427d30;
+  border-radius: 0;
+  color: #49427d;
+  background: #faf8fc;
+  font: inherit;
+}
+.motion-workspace.has-choices {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 184px;
+  gap: 14px;
+  align-items: start;
+}
+.motion-media { min-width: 0; }
+.motion-video-stage,
+.motion-poster-stage {
+  display: grid;
+  place-items: center;
+  min-width: 0;
+  margin: 0;
+  line-height: 0;
+}
+.motion-video-stage { background: #14131b; }
+.motion-video-stage video {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: var(--motion-fit-height);
+  object-fit: contain;
+}
+.motion-poster-stage {
+  background: #eae6f0;
+  padding: 6px;
+}
+.motion-poster-stage img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: var(--motion-fit-height);
+  object-fit: contain;
+}
+.motion-poster-stage.is-enlarged {
+  display: block;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+}
+.motion-poster-stage.is-enlarged img {
+  width: max(100%, 820px);
+  max-width: none;
+  max-height: none;
+}
+.motion-caption {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 8px 0;
+  color: #6f627f;
+  font-size: 12px;
+  line-height: 1.5;
+}
+.motion-caption span:last-child { flex-shrink: 0; }
+
+.motion-picker {
+  position: sticky;
+  top: 68px;
+  min-width: 0;
+}
+.motion-picker > p {
+  margin-bottom: 7px;
+  color: #6f627f;
+  font-size: 11px;
+  letter-spacing: .07em;
+}
+.motion-picker [role=tablist] {
+  display: grid;
+  gap: 6px;
+}
+.motion-picker button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 53px;
+  min-width: 0;
+  padding: 6px;
+  border: 1px solid #49427d28;
+  text-align: left;
+  background: #f9f7fb;
+}
+.motion-picker button[aria-selected=true] {
+  border-color: #6b5a94;
+  background: #eae5f2;
+}
+.motion-picker button:hover { border-color: #8071a3; }
+.motion-picker img {
+  flex: 0 0 40px;
+  width: 40px;
+  height: 35px;
+  object-fit: contain;
+}
+.motion-picker.is-poster-picker img { height: 49px; }
+.motion-picker button span {
+  min-width: 0;
+  font-size: 12px;
+  line-height: 1.45;
+}
+.motion-picker small {
+  display: block;
+  color: #6f627f;
+  font-size: 10px;
+  line-height: 1.5;
+}
+
+.motion-bottom {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 18px;
+  margin-top: 8px;
+  border-top: 1px solid #49427d23;
+  padding-top: 9px;
+}
+.motion-bottom p {
+  max-width: 64ch;
+  color: #6f627f;
+  font-size: 12px;
+  line-height: 1.75;
+}
+.motion-bottom button { flex-shrink: 0; min-height: 44px; font-size: 12px; }
+.motion-error {
+  padding: 12px;
+  background: #eee7ec;
+  font-size: 12px;
+  line-height: 1.7;
+}
+.motion-error button { min-height: 44px; text-decoration: underline; }
+
+@media (max-width: 760px) {
+  .motion-viewer { padding: 5px; }
+  .motion-toolbar { padding: 5px 6px 5px 12px; }
+  .motion-heading { display: grid; gap: 3px; }
+  .motion-toolbar .motion-heading h2 { font-size: 16px; }
+  .motion-heading p { font-size: 10px; }
+  .motion-body {
+    --motion-fit-height: clamp(150px, calc(100dvh - 154px), 630px);
+    padding: 8px 9px 12px;
+  }
+  .motion-controls { margin-bottom: 8px; }
+  .motion-modes { gap: 2px; }
+  .motion-modes button, .motion-zoom { padding-inline: 6px; font-size: 11px; }
+  .motion-modes small, .motion-quality > span { display: none; }
+  .motion-quality select { font-size: 11px; }
+  .motion-workspace.has-choices { display: block; }
+  .motion-picker { position: static; margin-top: 4px; }
+  .motion-picker [role=tablist] {
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(119px, 44%);
+    overflow-x: auto;
+    scroll-snap-type: x proximity;
+    padding: 2px 2px 7px;
+  }
+  .motion-picker button { scroll-snap-align: start; }
+  .motion-picker button:focus-visible { outline-offset: 1px; }
+  .motion-picker button span { font-size: 11px; }
+  .motion-caption { font-size: 11px; }
+  .motion-bottom { flex-wrap: wrap; gap: 6px; }
+}
