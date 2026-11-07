@@ -37,9 +37,10 @@ export default function JourneyApp(){
   const reduced=useReducedMotion(),root=useRef(),shell=useRef(),indexRef=useRef(),lenis=useRef(),lenisTick=useRef(),progress=useRef(0),invalidate=useRef(),sound=useRef(),shutter=useRef(),bar=useRef(),phaseRef=useRef('town'),doorRef=useRef(0),roomAnchor=useRef(null);
   const [phase,setPhase]=useState('town'),[door,setDoor]=useState(0),[room,setRoom]=useState(readRoom),[selected,setSelected]=useState(()=>getProject(location.hash.slice(1))?.id||null),[menu,setMenu]=useState(false),[filter,setFilter]=useState('projects'),[eco]=useState(()=>innerWidth<700||navigator.hardwareConcurrency<=4||navigator.connection?.saveData),[soundOn,setSoundOn]=useState(false),[audioStatus,setAudioStatus]=useState('idle');
   const [ready,setReady]=useState(false),[sceneMounted,setSceneMounted]=useState(false),[active,setActive]=useState(true),[visible,setVisible]=useState(()=>!document.hidden);
-  const [entered,setEntered]=useState(()=>reduced||directContent()),[lookUp,setLookUp]=useState(false);
+  const [entered,setEntered]=useState(directContent),[lookUp,setLookUp]=useState(false);
   const project=getProject(selected),modal=!!selected,currentDoor=rooms[door];
-  const sceneActive=active&&visible&&entered&&!modal&&!room;
+  // Prepare the first real 3D frame behind the loading artwork.
+  const sceneActive=active&&visible&&!modal&&!room;
   const play=useCallback(kind=>sound.current?.play(kind),[]),onReady=useCallback(()=>setReady(true),[]);
   const completeLoading=useCallback(()=>setEntered(true),[]);
   const close=useCallback(()=>{setSelected(null);history.replaceState(null,'',location.pathname+location.search);},[]);
@@ -81,7 +82,6 @@ export default function JourneyApp(){
         {phase==='town'&&<div className="frame-florals town-florals" aria-hidden="true"><i/><i/></div>}
         <div className="scene-canvas" aria-label="随滚动推进的三维小镇和六扇门走廊">
           {sceneMounted&&<SceneBoundary onFailure={onReady}><Suspense fallback={null}><JourneyScene progress={progress} eco={eco} reduced={reduced} active={sceneActive} inHall={phase==='hall'} play={play} onReady={onReady} onEnter={enter} onOpenRoom={openRoom} lookUp={lookUp} invalidateRef={invalidate}/></Suspense></SceneBoundary>}
-          {!ready&&entered&&!modal&&!room&&active&&phase==='town'&&<img className="town-start-poster" src={assetPath("/assets/town-poster.svg")} alt="" decoding="async"/>}
         </div>
         <div className="journey-shutter" ref={shutter} aria-hidden="true"/>
         <header className="site-header"><button className="wordmark" onClick={()=>jumpTo(0)} aria-label="回到小镇全景"><span className="brand-script">Elowen</span><span className="brand-small">design & motion portfolio</span></button><nav className="desktop-nav" aria-label="作品直达"><button onClick={()=>openRoom('projects')}>课程项目<sup>06</sup></button><button onClick={()=>openRoom('web')}>实习项目<sup>06</sup></button><button onClick={()=>openRoom('motion')}>动效设计<sup>{districts.find(d=>d.id==='motion').count}</sup></button><button onClick={goIndex}>作品索引<ArrowUpRight size={14}/></button></nav><button className="journey-menu-toggle icon-button" aria-expanded={menu} aria-controls="room-menu" aria-label={menu?'收起房间导航':'打开六个房间导航'} onClick={()=>setMenu(v=>!v)}>{menu?<X size={24}/>:<List size={24}/>}</button></header>
@@ -113,6 +113,6 @@ export default function JourneyApp(){
     {project?.caseStudy&&<Suspense fallback={<div className="case-loading" role="status">正在打开项目…</div>}><ProjectCaseStudy key={project.id} project={project} onClose={close}/></Suspense>}
     {project?.media&&<Suspense fallback={<div className="case-loading" role="status">正在打开视频作品…</div>}><MotionProject key={project.id} project={project} onClose={close} onPlay={()=>{if(soundOn)sound.current?.toggle().then(setSoundOn);}}/></Suspense>}
     {project&&!project.caseStudy&&!project.media&&<Dialog label={project.title} onClose={close}><div className="project-dialog-top"><span>{districts.find(d=>d.id===project.district).title} / {project.number}</span><span>示意标题 · 作品待补充</span></div><h2>{project.title}</h2><p className="project-dialog-type">{project.type} · {project.tag}</p><div className="project-dialog-art"><ProjectArt project={project} large/></div><p className="project-lead">{project.description}</p><div className="project-chapters">{project.chapters.map((c,i)=><div key={c}><span>0{i+1}</span><h3>{c}</h3><p>{i===0?'介绍项目背景、个人角色与作品目标。':'这里将放入对应的图像、设计稿与过程说明。'}</p></div>)}</div><div className="project-dialog-bottom"><p>真实作品将沿着这份结构逐步展开。</p><button className="primary-link" onClick={close}><ArrowLeft size={17}/>返回浏览</button></div></Dialog>}
-    {!entered&&<LoadingScreen reduced={reduced} onComplete={completeLoading} onSkip={()=>{setEntered(true);requestAnimationFrame(goIndex);}}/>}
+    {!entered&&<LoadingScreen ready={ready} reduced={reduced} onComplete={completeLoading} onSkip={()=>{setEntered(true);requestAnimationFrame(goIndex);}}/>}
   </main>;
 }
